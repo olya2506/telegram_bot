@@ -1,3 +1,5 @@
 Бот - конвертер валют
 https://t.me/it_is_my_telegram_bot
 Конвертация из 4х предоставленных валют в рубли
+Курс валют запрашивается по API
+https://apilayer.com/marketplace/currency_data-api
